@@ -1,2 +1,2 @@
 #!/bin/bash
-file='\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)' | touch $file |  echo "Best School" > "$file"
+echo "Best School" > \\\*\\\\"'\"Best School\"\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
